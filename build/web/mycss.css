@@ -49,8 +49,8 @@ header li:last-child {
     width:50%;
 }
 .product {
-    width: 10%; 
-    height: auto; 
+    width: 20%; 
+    height: 50%; 
     float:left; 
     margin: 5%;
 }
@@ -69,8 +69,8 @@ header li:last-child {
     width: 15%;
 }
 .plantimg { 
-    width:100px; 
-    height: 100px;
+    width:200px; 
+    height: 180px;
 }
 .shopping { 
     width:70%;
